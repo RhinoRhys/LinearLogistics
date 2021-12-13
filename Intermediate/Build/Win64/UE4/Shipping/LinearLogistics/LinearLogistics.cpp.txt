@@ -1,0 +1,2 @@
+C:\Users\User\Documents\GitHub\SatisfactoryModLoader\Plugins\LinearLogistics\Intermediate\Build\Win64\UE4\Shipping\LinearLogistics\Definitions.LinearLogistics.h
+C:\Users\User\Documents\GitHub\SatisfactoryModLoader\Plugins\LinearLogistics\Source\LinearLogistics\Public\LinearLogistics.h
